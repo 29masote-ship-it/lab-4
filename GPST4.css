@@ -7,7 +7,7 @@ body {
 header {
 	background-color: #00B386;
 	color: #70dbdb;
-	background-image: url(assets/pasture.png);
+	background-image: url(pasture.png);
 	background-repeat: no-repeat;
 	background-origin: context-box;
 	background-position: right;
@@ -93,7 +93,7 @@ h1 {
 }
 	
 #homeimage{
-	background-image: url(assets/sunsetHorse.png);
+	background-image: url(sunsetHorse.png);
 	height: 300px;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
@@ -120,7 +120,7 @@ footer {
 	
 
 #boardimage{
-	background-image: url(assets/fenceline.png);
+	background-image: url(fenceline.png);
     height: 300px;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
@@ -128,7 +128,7 @@ footer {
 }
 
 #trainingimage{
-	background-image: url(assets/BayBella.png);
+	background-image: url(BayBella.png);
     height: 300px;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
@@ -140,5 +140,6 @@ footer {
 }
 
 main ul {
-	list-style-image: url(assets/marker.gif);
+	list-style-image: url(marker.gif);
 }
+
