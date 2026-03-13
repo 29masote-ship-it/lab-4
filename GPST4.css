@@ -106,6 +106,8 @@ main{
 	padding-left: 20px;
 	padding-bottom: 20px;
 	display: block;
+	margin-left: 190px;
+	background-color: white; 
 }
 
 footer {
@@ -142,4 +144,5 @@ footer {
 main ul {
 	list-style-image: url(marker.gif);
 }
+
 
